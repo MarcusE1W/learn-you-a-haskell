@@ -1,6 +1,8 @@
 Types and Typeclasses
 =====================
 
+_ **This chapter still needs to be written for Idris** _
+
 Believe the type
 ----------------
 

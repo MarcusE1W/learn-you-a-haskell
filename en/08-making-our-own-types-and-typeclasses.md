@@ -1,5 +1,6 @@
 Making Our Own Types and Typeclasses
 ====================================
+_ **This chapter still needs to be written for Idris** _
 
 In the previous chapters, we covered some existing Haskell types and
 typeclasses. In this chapter, we'll learn how to make our own and how to

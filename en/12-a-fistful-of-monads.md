@@ -1,6 +1,8 @@
 A Fistful of Monads
 ===================
 
+_ **This chapter still needs to be written for Idris** _
+
 When we first talked about functors, we saw that they were a useful
 concept for values that can be mapped over. Then, we took that concept
 one step further by introducing applicative functors, which allow us to

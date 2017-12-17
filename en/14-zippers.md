@@ -1,6 +1,8 @@
 Zippers
 =======
 
+_ **This chapter still needs to be written for Idris** _
+
 ![hi im chet](img/60sdude.png)
 
 While Haskell's purity comes with a whole bunch of benefits, it makes us

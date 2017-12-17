@@ -1,5 +1,7 @@
 Syntax in Functions
 ===================
+_ **This chapter still needs to be written for Idris** _
+
 
 Pattern matching
 ----------------

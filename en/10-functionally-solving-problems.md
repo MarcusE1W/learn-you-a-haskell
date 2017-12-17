@@ -1,6 +1,8 @@
 Functionally Solving Problems
 =============================
 
+_ **This chapter still needs to be written for Idris** _
+
 In this chapter, we'll take a look at a few interesting problems and how
 to think functionally to solve them as elegantly as possible. We
 probably won't be introducing any new concepts, we'll just be flexing

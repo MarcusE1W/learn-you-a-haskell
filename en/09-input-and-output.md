@@ -1,6 +1,8 @@
 Input and Output
 ================
 
+_ **This chapter still needs to be written for Idris** _
+
 ![poor dog](img/dognap.png)
 
 We've mentioned that Haskell is a purely functional language. Whereas in

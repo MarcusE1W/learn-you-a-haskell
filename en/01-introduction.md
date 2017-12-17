@@ -1,14 +1,15 @@
 Introduction
 ============
+_ **This chapter still needs to be written for Idris** _
 
 About this tutorial
 -------------------
 
-Welcome to *Learn You a Haskell for Great Good*! If you're reading this,
-chances are you want to learn Haskell. Well, you've come to the right
-place, but let's talk about this tutorial a bit first.
+Welcome to *Learn You an Idris*! If you're reading this,
+chances are you are interested in learning Idris. This tutorial tries to give
+a beginner friendly introduction into Idris without you having to read an Haskell or so book first to get the basics.
 
-I decided to write this because I wanted to solidify my own knowledge of
+_I decided to write this because I wanted to solidify my own knowledge of
 Haskell and because I thought I could help people new to Haskell learn
 it from my perspective. There are quite a few tutorials on Haskell
 floating around on the internet. When I was starting out in Haskell, I
@@ -18,19 +19,21 @@ something in a different way than the other did. By going through
 several resources, I was able put together the pieces and it all just
 came falling into place. So this is an attempt at adding another useful
 resource for learning Haskell so you have a bigger chance of finding one
-you like.
+you like._
+<!-- TODO -->
 
 ![bird](img/bird.png)
 
 This tutorial is aimed at people who have experience in imperative
 programming languages (C, C++, Java, Python …) but haven't programmed in
-a functional language before (Haskell, ML, OCaml …). Although I bet that
-even if you don't have any significant programming experience, a smart
+a functional language before (Haskell, ML, OCaml …). Although even if you
+don't have any significant programming experience, I bet a smart
 person such as yourself will be able to follow along and learn Haskell.
 
-The channel \#haskell on the freenode network is a great place to ask
+_The channel \#haskell on the freenode network is a great place to ask
 questions if you're feeling stuck. People there are extremely nice,
-patient and understanding to newbies.
+patient and understanding to newbies._
+<!-- TODO -->
 
 I failed to learn Haskell approximately 2 times before finally grasping
 it because it all just seemed too weird to me and I didn't get it. But
@@ -41,9 +44,9 @@ really learn it even if it seems weird at first. Learning Haskell is
 much like learning to program for the first time — it's fun! It forces
 you to think differently, which brings us to the next section …
 
-So what's Haskell?
+So what's Idris?
 ------------------
-
+<!-- TODO -->
 ![fx](img/fx.png) Haskell is a *purely
 functional programming language*. In imperative languages you get things
 done by giving the computer a sequence of tasks and then it executes

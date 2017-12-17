@@ -1,6 +1,6 @@
 Higher order functions
 ======================
-
+_ **This chapter still needs to be written for Idris** _
 ![sun](img/sun.png)
 
 Haskell functions can take functions as parameters and return functions

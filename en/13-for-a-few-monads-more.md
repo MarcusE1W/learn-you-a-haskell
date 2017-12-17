@@ -1,6 +1,8 @@
 For a Few Monads More
 =====================
 
+_ **This chapter still needs to be written for Idris** _
+
 ![there are two kinds of people in the world, my friend. those who learn
 them a haskell and those who have the job of coding
 java](img/clint.png)

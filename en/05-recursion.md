@@ -1,6 +1,6 @@
 Recursion
 =========
-
+_ **This chapter still needs to be written for Idris** _
 <a name="recursion"></a>
 
 Hello recursion!
