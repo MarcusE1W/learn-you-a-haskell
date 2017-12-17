@@ -1,13 +1,13 @@
-Learn You a _Haskell_ for Great Good!
+Learn You an _Idris_ for the Good!
 =====================================
 
-_by Miran Lipovača._
+_adapted for Idris by Marcus Herbold._
 
-This is my personal copy of “Learn You a Haskell for Great Good!”, the prettiest
+This is my personal adaption of “Learn You a Haskell for Great Good!”, the prettiest
 book for learning Haskell that I know of. I obtained this copy by using
 [Pandoc](http://johnmacfarlane.net/pandoc/).
 
-You can read the book [online](http://learnyouahaskell.com/chapters) or [buy a
+You can read the original Haskell book [online](http://learnyouahaskell.com/chapters) or [buy a
 copy](http://nostarch.com/lyah.htm).
 
 Description at learnyouahaskell.com
@@ -29,7 +29,7 @@ What is this repo for?
 ----------------------
 
 With the help of this repo, you can make your own ebook version of the book.
-Make sure you have Pandoc installed and pdflatex (for making the pdf) and then 
+Make sure you have Pandoc installed and pdflatex (for making the pdf) and then
 use 'make all', 'make epubs' or 'make pdfs' depending on what you want.
 The output will be written to a directory called 'out'
 
